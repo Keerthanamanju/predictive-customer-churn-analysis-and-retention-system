@@ -42,4 +42,4 @@ with col3:
 
 with col4:
     if st.button("ℹ️ System Architecture", use_container_width=True):
-        st.switch_page("pages/4_ℹ️_About.py")
+        st.switch_page("pages/5_ℹ️_About.py")
