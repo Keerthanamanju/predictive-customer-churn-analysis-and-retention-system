@@ -237,4 +237,4 @@ with col_back:
         st.switch_page("pages/3_⚡_Prediction.py")
 with col_next:
     if st.button("🖥️ System Architecture →", use_container_width=True):
-        st.switch_page("pages/5_🖥️_About.py")
+       st.switch_page("pages/5_ℹ️_About.py")
